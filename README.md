@@ -18,7 +18,7 @@ When downloaded as a .csv file, the format of the data is wide, thus uncomfortab
 - Deal with the values and convert them into a more usable format. For example: The Obesity Index
   - From 5.5[3.4-8.1] to 5.5. I don't drop the confidence intervals since I don't want to lose information, but I will be working with the average, stored in another column.
   
-  **Visualizations**
+**Visualizations**
 The main objective is just to perform a basic EDA. Since this is a dataset that contains a lot of different categories (one per country, really), the visualizations had to be really efficient.
 
 Main visualizations:
